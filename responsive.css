@@ -1,0 +1,25 @@
+
+ @media (max-width: 1000px) {
+    .immagine {width:auto;
+        height: 100vh;
+     }
+ 
+ @media (max-width: 500px) {
+    .immagine {width:auto;
+        height: 100vh;
+     }
+ 
+    p {width: 100%;
+        margin: 0;
+        padding: 20%; 
+        font-size: 25px;}
+
+    h1{width: 100%;
+        margin: 0;
+        padding: 20%;}
+ 
+     .contenuto {
+         min-height: 70vh;
+         gap:50px;
+     }
+ }
